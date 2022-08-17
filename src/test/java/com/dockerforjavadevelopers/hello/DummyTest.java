@@ -6,7 +6,7 @@ import org.junit.Test;
 
 public class DummyTest {
 
-  Test
+  @Test
   public void aTest() {
     assertEquals(true, true);
   }
